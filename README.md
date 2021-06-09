@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello World👋
+<a href="https://merico.build/badges/assertion/5264"><img src="https://merico-build.s3-us-west-2.amazonaws.com/badges/badge-VLk_StP8hmP9Qvot2vr8l_1x.svg" alt="Badge for Top 10%"></a>
 
 <!--
 **nitinvasanth/nitinvasanth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
